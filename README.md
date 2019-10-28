@@ -4,8 +4,9 @@
 
 ## Preinstallation
 ```
- conda create -n dtw -c anaconda python=3.6 numpy tqdm pyaudio scipy python_speech_features
+ conda create -n dtw -c anaconda python=3.6 numpy tqdm pyaudio scipy #也可以使用pip
  conda activate dtw
+ pip install python_speech_features
 ```
 
 
