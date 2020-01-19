@@ -3,6 +3,9 @@
 
 
 ## Preinstallation
+
+以下命令主要使用Anaconda安装环境，当然也可以更换为pip。
+
 ```
  conda create -n dtw -c anaconda python=3.6 numpy tqdm pyaudio scipy #也可以使用pip
  conda activate dtw
