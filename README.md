@@ -26,4 +26,5 @@
 ## Links
 
 [GMM实现](https://github.com/zhengyima/GMM_Digital_Voice_Recognition)
+
 [HMM实现](https://github.com/zhengyima/HMM_Digital_Voice_Recognition)
