@@ -20,7 +20,6 @@
   mkdir ProcessedData # 创建端点处理后数据目录
   python endpointDetection_RecordedVoice.py # 端点检测，默认使用英文数据
   python VoiceRecog.py 
-  
 ```
 
 ## Links
